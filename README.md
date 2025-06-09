@@ -48,7 +48,7 @@ This system combines the flexibility of offline and online text-to-speech system
 
 For collaborations or academic/project use, feel free to reach out at:
 
-📧 Email:healthwaves60.jatinyadav@gmail.com 
+📧 Email: healthwaves60.jatinyadav@gmail.com 
 
 ---
 
